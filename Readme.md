@@ -1,3 +1,3 @@
-##Collaboration app leerkrachten & leerlingen
+#Collaboration app leerkrachten & leerlingen
 
-#John SantaCruz en Gianni lenaerts
+###door John SantaCruz en Gianni lenaerts
